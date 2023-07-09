@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-ML-Project-with-DVC-MLflow
+https://github.com/Sushanth172308/End-to-end-ML-Project-with-MLflow
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
